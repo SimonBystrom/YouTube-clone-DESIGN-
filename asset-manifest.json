@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/YouTube-clone-DESIGN-/static/css/main.dc21a2db.chunk.css",
+    "main.js": "/YouTube-clone-DESIGN-/static/js/main.4a34beb5.chunk.js",
+    "main.js.map": "/YouTube-clone-DESIGN-/static/js/main.4a34beb5.chunk.js.map",
+    "runtime-main.js": "/YouTube-clone-DESIGN-/static/js/runtime-main.cc6f2208.js",
+    "runtime-main.js.map": "/YouTube-clone-DESIGN-/static/js/runtime-main.cc6f2208.js.map",
+    "static/css/2.235ad548.chunk.css": "/YouTube-clone-DESIGN-/static/css/2.235ad548.chunk.css",
+    "static/js/2.0c9eeeb4.chunk.js": "/YouTube-clone-DESIGN-/static/js/2.0c9eeeb4.chunk.js",
+    "static/js/2.0c9eeeb4.chunk.js.map": "/YouTube-clone-DESIGN-/static/js/2.0c9eeeb4.chunk.js.map",
+    "index.html": "/YouTube-clone-DESIGN-/index.html",
+    "precache-manifest.ee178742bf18ecfe42c1e7666bd17a40.js": "/YouTube-clone-DESIGN-/precache-manifest.ee178742bf18ecfe42c1e7666bd17a40.js",
+    "service-worker.js": "/YouTube-clone-DESIGN-/service-worker.js",
+    "static/css/2.235ad548.chunk.css.map": "/YouTube-clone-DESIGN-/static/css/2.235ad548.chunk.css.map",
+    "static/css/main.dc21a2db.chunk.css.map": "/YouTube-clone-DESIGN-/static/css/main.dc21a2db.chunk.css.map",
+    "static/js/2.0c9eeeb4.chunk.js.LICENSE.txt": "/YouTube-clone-DESIGN-/static/js/2.0c9eeeb4.chunk.js.LICENSE.txt",
+    "static/media/remixicon.css": "/YouTube-clone-DESIGN-/static/media/remixicon.9915fef9.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc6f2208.js",
+    "static/css/2.235ad548.chunk.css",
+    "static/js/2.0c9eeeb4.chunk.js",
+    "static/css/main.dc21a2db.chunk.css",
+    "static/js/main.4a34beb5.chunk.js"
+  ]
+}
