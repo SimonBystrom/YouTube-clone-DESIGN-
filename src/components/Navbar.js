@@ -11,7 +11,7 @@ export default function Navbar(){
                     <div></div>
                     <div></div>
                 </li>
-                <li>
+                 <li>
                     <i className="ri-youtube-fill"></i>
                     <h3>YouTube</h3>
                 </li>

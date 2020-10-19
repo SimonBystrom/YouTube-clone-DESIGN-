@@ -2,7 +2,7 @@ import React from 'react'
 import './Sidebar.css'
 
 export default function Sidebar(){
-
+ 
     return(
         <div className="Container-Sidebar">
             <div className="Home">

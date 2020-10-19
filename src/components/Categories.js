@@ -11,7 +11,7 @@ import {list} from '../Category-list'
 export default function Categories(){
 
     let categories = list.map(item => <div className="List-Item">{item}</div>)
-
+ 
     return(
        <div className="Container-Categories">
         <Slider

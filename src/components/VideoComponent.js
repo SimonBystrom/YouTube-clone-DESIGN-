@@ -3,7 +3,7 @@ import React from 'react'
 import "./VideoComponent.css"
 
 export default function VideoComponent(props){
-
+ 
     return (
         <div className="VideoComp">
             <div className="img">

@@ -6,7 +6,7 @@ import {content} from "../Content-info"
 
 
 export default function Content(){
-
+ 
     let VideoContentRender = content.map(item => 
     <VideoComponent thumbnail={item.thumbnail}
                     title={item.title}
