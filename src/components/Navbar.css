@@ -1,0 +1,139 @@
+.Nav {
+    display: flex;
+    height: 55px;
+    align-items: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+
+}
+
+
+
+/* Burger Menu */
+.BurgerMenu {
+    margin-left: 0.9em;
+}
+.BurgerMenu:hover{
+    cursor: pointer;
+}
+.BurgerMenu > div{
+    width: 18px;
+    height: 2px;
+    background-color: rgb(105, 105, 105);
+    margin: 3px 0;
+}
+
+
+
+/* YouTube Icon + Main Title */
+.Nav > li:nth-child(2) > i {
+    font-size: 27px;
+    float: left;
+    color: red;
+}
+.Nav > li:nth-child(2) > i:hover{
+    cursor: pointer;
+}
+.Nav > li:nth-child(2) > h3 {
+    margin: 0px;
+    text-align: center;
+    font-size: 23px;
+    float: left;
+}
+.Nav > li:nth-child(2) > h3:hover{
+    cursor: pointer;
+}
+
+
+
+/* Searchbar */
+.Nav > li:nth-child(3) {
+    flex: 2;
+    margin-left: 10%;
+}
+.SearchBarInput{
+    float: left;
+    font-size: 14px;
+    padding: 7px;
+    border: 1px rgb(205, 205, 205) solid;
+    border-radius: 2px 0px 0px 2px;
+    width: 70%;
+}
+
+.SearchBarButton{
+    float: left;
+    padding: 7px;
+    border: 1px rgb(205, 205, 205) solid;
+    background-color: rgb(245, 245, 245);
+    border-radius: 0px 2px 2px 0px;
+    border-left: none;
+    width: 8%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SearchBarButton:hover{
+    cursor: pointer;
+    background-color: rgb(235, 235, 235);
+}
+
+.SearchBarButton > i {
+    font-size: 16px;
+    color: rgb(105, 105, 105);
+}
+
+
+
+/* Create new movie Icon */
+.Nav > li:nth-child(4){
+    font-size: 20px;
+    color: rgb(105, 105, 105);
+}
+.Nav > li:nth-child(4):hover{
+    cursor: pointer;
+}
+
+
+/* Youtube apps */
+.Nav > li:nth-child(5){
+    font-size: 20px;
+    color: rgb(105, 105, 105);
+}
+.Nav > li:nth-child(5):hover{
+    cursor: pointer;
+}
+
+
+
+/* Bell */
+.Nav > li:nth-child(6) {
+    font-size: 20px;
+    color: rgb(105, 105, 105);
+}
+.Nav > li:nth-child(6):hover{
+    cursor: pointer;
+}
+
+
+/* Profile */
+.Profile {
+    margin-right: 1em;
+    background-color: rgb(70, 70, 218);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+
+}
+
+.Profile:hover{
+    cursor: pointer;
+}

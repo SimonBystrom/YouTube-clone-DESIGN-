@@ -1,0 +1,8 @@
+.Container-Content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-rows: auto;
+    grid-gap: 15px;
+    margin: 20px;
+}
+

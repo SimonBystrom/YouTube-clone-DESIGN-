@@ -1,0 +1,121 @@
+.Container-Sidebar{
+    margin-top: 10px;
+}
+
+.Container-Sidebar > div > p{
+    margin: 0px;
+    font-size: 10px;
+    color: rgb(105, 105, 105);
+    margin-top: 5px;
+}
+
+.Container-Sidebar > div > i {
+    font-size: 22px;
+    color: rgb(105, 105, 105);
+}
+
+
+
+/* Home tab */
+.Home{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Home:hover{
+    background-color:rgb(235, 235, 235);
+    cursor: pointer;
+}
+
+.Home > #Home-icon {
+    color: red;
+}
+.Home > #Home-text{
+    color:red;
+}
+
+/* Tending Tab */
+
+.Trending{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Trending:hover{
+    background-color:rgb(235, 235, 235);
+    cursor: pointer;
+}
+
+
+
+/* Subscription tab */
+.Subscriptions{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Subscriptions:hover{
+    background-color:rgb(235, 235, 235);
+    cursor: pointer;
+}
+
+/* Lines above subscription img (to make img look like youtube */
+.Sub-img-lines {
+    margin-bottom: 0px;
+    position: absolute;
+    top: 216px;  
+}
+.Sub-img-lines > div:nth-child(1){
+    background-color: rgb(105, 105, 105);
+    width: 12px;
+    height: 2px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+.Sub-img-lines > div:nth-child(2){
+    background-color:rgb(105, 105, 105);
+    width: 16px;
+    height: 2px;
+    margin-right: 2px;
+    margin-bottom: 1px;
+}
+
+
+/* Library */
+.Library{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}   
+.Library:hover{
+    background-color:rgb(235, 235, 235);
+    cursor: pointer;
+}   
+/* Library Icon solutions*/
+.Library > i:nth-child(1){
+    position: absolute;
+    background-color: white;
+    top: 287px;
+    left: 28px;
+}
+.Library:hover > i:nth-child(1){
+    background-color:rgb(235, 235, 235);
+}
+.Library > i:nth-child(2){
+    margin-right: 4px;
+    margin-top: 3px;
+}

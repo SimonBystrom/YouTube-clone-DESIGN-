@@ -1,0 +1,25 @@
+.Container-Categories{
+    margin: 0px 10px 0px 10px;
+
+}
+
+.List-Item{
+    font-size: 15px;
+    font-weight: 445;
+    border: 1px solid rgb(180, 180, 180);
+    background-color: rgba(235, 235, 235, 0.5) ;
+    border-radius: 20px;
+    height: 18px;
+    white-space: nowrap;
+    padding: 6px 10px 7px 9px;
+    text-align: center;
+    margin-left: 10px;
+    
+    transition: 0.3s;
+    
+}
+
+.List-Item:hover {
+    cursor: pointer;
+    background-color: rgba(235, 235, 235, 1) ;
+}
