@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar"
 import Sidebar from "./components/Sidebar"
 import Categories from "./components/Categories"
 import Content from "./components/Content"
-
+ 
 function App() {
   return (
     <div className="GridContainer">

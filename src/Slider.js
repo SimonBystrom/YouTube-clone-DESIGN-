@@ -14,7 +14,7 @@ export default class Slider extends React.Component {
 
     this.refreshFlickity = this.refreshFlickity.bind(this);
   }
-
+ 
   componentDidMount() {
     this.flickity = new Flickity(this.flickityNode, this.props.options || {});
 

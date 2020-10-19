@@ -1,4 +1,4 @@
-export const list = 
+export const list =  
             ["All", "Lo-fi music", "Anime", "Jazz", "Call of Duty", 
             "Beats", "Casual Games", "Albums", "Body-Building", "Art", 
             "Programming", "Cooking", "Health", "Fitness", "Movies", 

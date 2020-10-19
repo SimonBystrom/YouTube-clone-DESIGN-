@@ -1,5 +1,5 @@
 export  const content = 
-[
+[ 
     {
         thumbnail: "https://sm.mashable.com/t/mashable_sea/photo/default/lofi-anime-girl-hip-hop-chilled-cow_4m7v.h720.jpg",
         title: "lofi hip hop - beats to relax/study to",
