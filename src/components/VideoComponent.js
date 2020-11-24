@@ -1,6 +1,6 @@
 import React from 'react'
 
-import "./VideoComponent.css"
+import "./css/VideoComponent.css"
 
 export default function VideoComponent(props){
  

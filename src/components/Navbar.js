@@ -1,6 +1,6 @@
 import React from 'react'
 import "../index.css"
-import "./Navbar.css"
+import "./css/Navbar.css"
 
 export default function Navbar(){
     return(

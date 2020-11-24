@@ -2,7 +2,7 @@ import React from 'react'
 import Slider from '../Slider'
 
 
-import './Categories.css'
+import './css/Categories.css'
 import {list} from '../Category-list'
 
 

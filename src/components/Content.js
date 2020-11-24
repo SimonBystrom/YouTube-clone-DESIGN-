@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Content.css'
+import './css/Content.css'
 import VideoComponent from "./VideoComponent"
 import {content} from "../Content-info"
 

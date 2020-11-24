@@ -11,19 +11,24 @@
 .GridContainer > .Navbar {
   background-color: white;
   grid-area: nav;
+
+
 }
 
 .GridContainer > .Sidebar {
   background-color: white;
   grid-area: side;
+
 }
 
 .GridContainer > .Categories {
   background-color: white;
-
   border-top: 1px rgb(225, 225, 225) solid;
   border-bottom: 1px rgb(225, 225, 225) solid;
   grid-area: cate;
+
+  
+  
 }
  
 .GridContainer > .Content {
